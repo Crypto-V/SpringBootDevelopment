@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/rest-crud/01-spring-boot-rest-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/QuickHibernate/01-springboot-hibernate-jpa-crud/letsPractice/pom.xml" />
+        <option value="$PROJECT_DIR$/QuickHibernate/01-springboot-hibernate-jpa-crud/01-cruddemo-student/pom.xml" />
+        <option value="$PROJECT_DIR$/03-actuator-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/IOC-and-DI -demo/04-qualifiers/pom.xml" />
+        <option value="$PROJECT_DIR$/IOC-and-DI -demo/06-bean-scope-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/IOC-and-DI -demo/01-IOC-and-DI -demo/pom.xml" />
+        <option value="$PROJECT_DIR$/IOC-and-DI -demo/03-setter-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/IOC-and-DI -demo/09-java-config-bean/pom.xml" />
+        <option value="$PROJECT_DIR$/IOC-and-DI -demo/02-component-scan-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/IOC-and-DI -demo/05-lazy-initialization/pom.xml" />
+        <option value="$PROJECT_DIR$/IOC-and-DI -demo/07-bean-lifecycle-methods/pom.xml" />
+        <option value="$PROJECT_DIR$/02-dev-tools-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/06-properties-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-boot-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/05-command-line-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/04-actuator-security-demo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

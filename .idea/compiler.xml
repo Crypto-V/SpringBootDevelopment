@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mycoolapp (4)" />
+        <module name="mycoolapp (5)" />
+        <module name="mycoolapp (2)" />
+        <module name="mycoolapp (3)" />
+        <module name="mycoolapp (12)" />
+        <module name="mycoolapp (1)" />
+        <module name="mycoolapp (11)" />
+        <module name="mycoolapp (10)" />
+        <module name="mycoolapp (8)" />
+        <module name="demo" />
+        <module name="mycoolapp (9)" />
+        <module name="mycoolapp (6)" />
+        <module name="mycoolapp (7)" />
+        <module name="cruddemo" />
+        <module name="01-spring-boot-demo (2)" />
+        <module name="01-spring-boot-demo (1)" />
+        <module name="letsPractice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-spring-boot-demo" target="17" />
+      <module name="mycoolapp" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01-spring-boot-demo (1)" options="-parameters" />
+      <module name="01-spring-boot-demo (2)" options="-parameters" />
+      <module name="cruddemo" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="mycoolapp (1)" options="-parameters" />
+      <module name="mycoolapp (10)" options="-parameters" />
+      <module name="mycoolapp (11)" options="-parameters" />
+      <module name="mycoolapp (12)" options="-parameters" />
+      <module name="mycoolapp (2)" options="-parameters" />
+      <module name="mycoolapp (3)" options="-parameters" />
+      <module name="mycoolapp (4)" options="-parameters" />
+      <module name="mycoolapp (5)" options="-parameters" />
+      <module name="mycoolapp (6)" options="-parameters" />
+      <module name="mycoolapp (7)" options="-parameters" />
+      <module name="mycoolapp (8)" options="-parameters" />
+      <module name="mycoolapp (9)" options="-parameters" />
+    </option>
+  </component>
+</project>

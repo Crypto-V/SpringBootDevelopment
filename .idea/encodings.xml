@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01-spring-boot-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-dev-tools-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-dev-tools-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-actuator-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-actuator-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-actuator-security-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-actuator-security-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-command-line-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-command-line-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-properties-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-properties-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IOC-and-DI -demo/01-IOC-and-DI -demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IOC-and-DI -demo/01-IOC-and-DI -demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IOC-and-DI -demo/02-component-scan-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IOC-and-DI -demo/02-component-scan-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IOC-and-DI -demo/03-setter-injection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IOC-and-DI -demo/03-setter-injection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IOC-and-DI -demo/04-qualifiers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IOC-and-DI -demo/04-qualifiers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IOC-and-DI -demo/05-lazy-initialization/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IOC-and-DI -demo/05-lazy-initialization/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IOC-and-DI -demo/06-bean-scope-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IOC-and-DI -demo/06-bean-scope-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IOC-and-DI -demo/07-bean-lifecycle-methods/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IOC-and-DI -demo/07-bean-lifecycle-methods/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IOC-and-DI -demo/09-java-config-bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IOC-and-DI -demo/09-java-config-bean/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/QuickHibernate/01-springboot-hibernate-jpa-crud/01-cruddemo-student/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/QuickHibernate/01-springboot-hibernate-jpa-crud/01-cruddemo-student/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/QuickHibernate/01-springboot-hibernate-jpa-crud/letsPractice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/QuickHibernate/01-springboot-hibernate-jpa-crud/letsPractice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-crud/01-spring-boot-rest-crud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-crud/01-spring-boot-rest-crud/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
